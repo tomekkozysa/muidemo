@@ -34,11 +34,10 @@
         
       Back to Sequencer, the way to use it, is through the MODE panel:<br />
 
-
-      1. Select Record. <br />
-      2. Select a cell in the grid, to determine when the note is played <br />
+      1. Select "Record" mode. <br />
+      2. Select a cell or cells in the grid, to determine when the note is played. <br />
       3. With keyboard component armed, use your actual keyboard to schedule a particular note.<br />
-      4. Other modes can misbehave, however Random one, will quickly select a bunch of random cells in sequencer, swict back to record and you can schedul multiple random notes:
+      4. Other modes can misbehave, try the "random" one, it will quickly select a bunch of random cells in the sequencer. Switch back to record and you can schedul multiple random notes!
 
     
       </p>
