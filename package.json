@@ -1,0 +1,20 @@
+{
+  "name": "muitest",
+  "version": "1.0.0",
+  "description": "My exceptional Nuxt.js project",
+  "author": "Tomasz Kozysa",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "music-ui-vue": "^0.0.13",
+    "nuxt": "^2.0.0",
+    "tone": "^13.8.25"
+  },
+  "devDependencies": {}
+}
